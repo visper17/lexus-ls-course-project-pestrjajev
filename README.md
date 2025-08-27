@@ -20,7 +20,7 @@ A responsive web documentation project featuring maintenance schedules, engine s
 
 ## Demo
 
-[Live Site](https://yourusername.github.io/lexus-ls-guide/) <!-- Update link after deploying to GitHub Pages -->
+[Live Site](https://visper17.github.io/lexus-ls-course-project-pestrjajev/#Interior_and_Technology) 
 
 ## Getting Started
 
